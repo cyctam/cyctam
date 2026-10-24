@@ -1,8 +1,8 @@
-# Hey, I'm Tama 👋
+# Hey, Im Tama 👋
 
 ### ☁️ Cloud Engineer in Progress · DevOps · Software Development
 
-I'm a vocational student interested in cloud infrastructure, automation, backend systems, and web development. I enjoy exploring new technologies and turning what I learn into practical skills.
+Im a vocational student interested in cloud infrastructure, automation, backend systems, and web development. I enjoy exploring new technologies and turning what I learn into practical skills.
 
 ---
 
