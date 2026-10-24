@@ -1,4 +1,4 @@
-# Hey, Im Tama 👋
+# Hey, im Tama 👋
 
 ### ☁️ Cloud Engineer in Progress · DevOps · Software Development
 
