@@ -1,46 +1,43 @@
 # Hey, I'm Tama 👋
 
-### Cloud Engineering ☁️ | DevOps ⚙️ | Software Development 💻
+### ☁️ Cloud Engineer in Progress · DevOps · Software Development
 
-Vocational student exploring cloud infrastructure, automation, and application development. I enjoy learning new technologies and building projects that solve real-world problems.
+I'm a vocational student interested in cloud infrastructure, automation, backend systems, and web development. I enjoy exploring new technologies and turning what I learn into practical skills.
+
+---
 
 ## ☁️ Cloud & Infrastructure
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux" alt="Cloud and infrastructure tools"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux" alt="AWS, Terraform, Kubernetes, Docker and Linux"/>
 </p>
 
-**Areas of interest:** Cloud Architecture · Infrastructure as Code · Containerization · CI/CD
+## 💻 Programming Languages
 
-## 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,go,php,html,css" alt="Programming languages"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,php,go" alt="Python, JavaScript, PHP and Go"/>
 </p>
 
-## ⚙️ Frameworks & Runtime
+## 🌐 Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs" alt="Frameworks and runtime"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css" alt="React, Node.js, HTML and CSS"/>
 </p>
 
-## 🧰 Development Tools
+## 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" alt="Development tools"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="MySQL, PostgreSQL, MongoDB and Redis"/>
 </p>
 
-## 🚀 Featured Projects
+## 🧰 Tools & Workflow
 
-- 🌱 **earthclay-app** — Web application project.
-- 🤖 **llm-project-ir** — AI-assisted incident response project.
-
-## 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyctam&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,prometheus,grafana,postman,vscode" alt="Git, GitHub, GitHub Actions, Jenkins, Prometheus, Grafana, Postman and VS Code"/>
 </p>
 
 ---
 
-*Just building stuff, figuring things out, and learning as I go*
+<p align="center">
+  <i>Just building stuff, figuring things out, and learning as I go.</i>
+</p>
