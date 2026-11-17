@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 <img src="assets/cyctam-anime-banner.gif" width="100%" alt="Anime Train Animation"/>
 
@@ -11,7 +10,7 @@
 
 ---
 
-## About Me:
+## About Me
 
 Hi! I'm **Tama**, a vocational student interested in cloud computing, infrastructure engineering, and backend development.
 
@@ -24,7 +23,7 @@ I believe technology is a continuous learning journey. I'm currently building my
 
 ---
 
-## Technologies & Tools:
+## Technologies & Tools
 
 <div align="center">
 
@@ -52,7 +51,7 @@ I believe technology is a continuous learning journey. I'm currently building my
 
 ---
 
-## What I'm Currently Exploring:
+## What I'm Currently Exploring
 
 - **Cloud Computing:** AWS services and cloud architecture.
 - **Infrastructure as Code:** Terraform and automated provisioning.
@@ -64,17 +63,31 @@ I believe technology is a continuous learning journey. I'm currently building my
 
 ---
 
-## GitHub Activity:
+
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cyctam&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=40E0D0&icon_color=40E0D0&text_color=C9D1D9" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyctam&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=40E0D0&text_color=C9D1D9" height="165" />
+<img
+  src="https://github-readme-stats-fast.vercel.app/api?username=cyctam&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=40E0D0&icon_color=40E0D0&text_color=C9D1D9"
+  height="165"
+  alt="GitHub Stats"
+/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/cyctam/cyctam/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+<img
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cyctam&layout=compact&langs_count=10&card_width=450&hide_border=true&bg_color=45,4DFF5B,35F2E8,55C8FF,C64BFF&title_color=0D1117&text_color=0D1117"
+  alt="Top Languages"
+/>
+
+<br/><br/>
+
+<img
+  src="https://raw.githubusercontent.com/cyctam/cyctam/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
 
