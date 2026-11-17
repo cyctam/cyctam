@@ -1,87 +1,80 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:164E63,100:40E0D0&height=160&section=header&text=Tama&fontSize=48&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" width="100%" />
+<img src="assets/cyctam-anime-banner.gif" width="100%" alt="Anime Train Animation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=40E0D0&center=true&vCenter=true&width=600&lines=Cloud+Engineer+in+Progress;Exploring+Cloud+%26+DevOps;Building+Automation+%26+Infrastructure;Turning+Ideas+Into+Working+Systems" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=40E0D0&center=true&vCenter=true&width=600&lines=Turning+Coffee+into+Code;Cloud+Engineer+in+Progress;Building+Cloud+Infrastructure;Automating+with+DevOps;Learning+Something+New+Every+Day" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me:
 
-Hi! I'm **Tama**, a vocational student interested in cloud infrastructure, DevOps, and backend engineering.
+Hi! I'm **Tama**, a vocational student interested in cloud computing, infrastructure engineering, and backend development.
 
-I enjoy learning how systems work behind the scenes, experimenting with new technologies, and building practical projects to improve my technical skills.
+I believe technology is a continuous learning journey. I'm currently building my foundation in cloud infrastructure and DevOps, exploring how modern applications are developed, deployed, automated, and maintained.
 
-- ☁️ Exploring cloud infrastructure and AWS services
-- ⚙️ Learning DevOps practices and automation
-- 🏗️ Building infrastructure with Terraform
-- 🐳 Working with Docker and containerization
-- 💻 Exploring backend development and system integration
+- I see every bug as a lesson and every project as an opportunity to grow.
+- Currently exploring AWS, Infrastructure as Code, and DevOps practices.
+- Building practical projects to understand real-world cloud environments.
+- Always open to feedback, collaboration, and learning new technologies.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools:
 
 <div align="center">
 
-**Cloud & Infrastructure**
+### Cloud & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux&theme=dark" />
 
-<br/>
-
-**Programming Languages**
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,javascript,php,go&theme=dark" />
 
-<br/>
-
-**Web Development**
+### Web Development
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,html,css&theme=dark" />
 
-<br/>
+### Database
 
-**Database & Tools**
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,git,github,vscode&theme=dark" />
+### DevOps & Tools
 
-<br/>
-
-**DevOps & Monitoring**
-
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,prometheus,grafana&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,prometheus,grafana,vscode,postman&theme=dark" />
 
 </div>
 
 ---
 
-## ⚙️ What I'm Exploring
+## What I'm Currently Exploring:
 
-| Area | Technologies |
-|---|---|
-| Cloud Computing | AWS |
-| Infrastructure as Code | Terraform |
-| Containerization | Docker, Kubernetes |
-| CI/CD | GitHub Actions, Jenkins |
-| Monitoring | Prometheus, Grafana |
-| Operating Systems | Linux |
-| Backend Development | Python, Node.js |
+- **Cloud Computing:** AWS services and cloud architecture.
+- **Infrastructure as Code:** Terraform and automated provisioning.
+- **Containerization:** Docker and Kubernetes.
+- **CI/CD:** GitHub Actions and Jenkins.
+- **Monitoring:** Prometheus and Grafana.
+- **Backend Development:** Python, Node.js, and API development.
+- **Operating Systems:** Linux and networking fundamentals.
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyctam&layout=compact&theme=github_dark&hide_border=true&title_color=40E0D0&text_color=C9D1D9&bg_color=0D1117" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=cyctam&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=40E0D0&icon_color=40E0D0&text_color=C9D1D9" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyctam&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=40E0D0&text_color=C9D1D9" height="165" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/cyctam/cyctam/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/cyctam/cyctam/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -90,7 +83,5 @@ I enjoy learning how systems work behind the scenes, experimenting with new tech
 <div align="center">
 
 *Building. Learning. Automating. Improving.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:40E0D0,100:0D1117&height=100&section=footer" width="100%" />
 
 </div>
